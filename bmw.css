@@ -1,0 +1,38 @@
+.white{
+    color: aliceblue;
+}
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.col{
+    padding: 15px;
+
+}
+.margin{
+    margin-left: 80;
+    margin-right: 80;
+
+}
+@font-face {
+    font-family: "Morebi Rounded Black";
+    src: url("https://db.onlinewebfonts.com/t/bb820f8532d929719198f5676948aec3.eot");
+    src: url("https://db.onlinewebfonts.com/t/bb820f8532d929719198f5676948aec3.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/bb820f8532d929719198f5676948aec3.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/bb820f8532d929719198f5676948aec3.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/bb820f8532d929719198f5676948aec3.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/bb820f8532d929719198f5676948aec3.svg#Morebi Rounded Black")format("svg");
+}
+.line {
+             
+    /* Increase this as per requirement */
+    padding-bottom: 12px;
+    border-bottom-style: solid;
+    border-bottom-width: 2.9px;
+    width: fit-content;
+}
+.col1{
+    
+ 
+
+}
