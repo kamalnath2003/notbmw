@@ -1,4 +1,4 @@
-.white{
+/* .white{
     color: aliceblue;
 }
 .container{
@@ -25,7 +25,7 @@
 }
 .line {
              
-    /* Increase this as per requirement */
+   
     padding-bottom: 12px;
     border-bottom-style: solid;
     border-bottom-width: 2.9px;
@@ -35,4 +35,22 @@
     
  
 
+} */
+*{
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+.flex{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.justify{
+    justify-content: center;
+}
+.container1{
+    display: flex;
+    flex-wrap: nowrap;
 }
